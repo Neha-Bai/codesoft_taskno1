@@ -6,7 +6,7 @@ public class random_Num {
     Scanner Sc = new Scanner(System.in);
 
     int randomNumber = rand.nextInt(100) + 1;
-    int count = 0;
+    int count = 9;
     int Limit;
         int user_Num;
         System.out.println("Enter the chances for guessing number :");
